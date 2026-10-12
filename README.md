@@ -1,6 +1,4 @@
-## Hi there 👋
-
-
+Hi there 👋
 <div align="center">
 
   <img
@@ -8,7 +6,6 @@
     alt="NEJI - Senior Full Stack Developer"
     width="100%"
   />
-
 </div>
 
 <!-- ========================================= -->
@@ -17,7 +14,8 @@
 
 <div align="center">
 
-<br/><br/>
+
+
 
 <h1>Hey, I'm NEJI 👋</h1>
 
@@ -27,10 +25,8 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=System+Architecture+%26+Design;Full+Stack+Software+Engineering;Cloud+Engineering+%26+DevOps;Distributed+Systems+%26+Microservices;AI+Engineering+%26+Intelligent+Systems;Designing.+Building.+Scaling."
   alt="Animated engineering introduction"
 />
-
 </div>
 
-<br/>
 
 <!-- ========================================= -->
 <!--                  ABOUT ME                 -->
@@ -55,8 +51,6 @@ a microservices backend as I am tuning a retrieval
 pipeline or shipping the React frontend on top of it.
 </p>
 
-<br/>
-
 
 <!-- ========================================= -->
 <!--              ALL OF MY SKILLS             -->
@@ -64,9 +58,7 @@ pipeline or shipping the React frontend on top of it.
 
 <h2>⚔️ All Of My Skills</h2>
 
-<table width="100%">
-
-<!-- ROW 1: PROGRAMMING LANGUAGES -->
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 
 <tr>
 
@@ -111,8 +103,6 @@ pipeline or shipping the React frontend on top of it.
 </td>
 
 </tr>
-
-<!-- ROW 2: CORE FRONTEND AND BACKEND -->
 
 <tr>
 
@@ -159,8 +149,6 @@ pipeline or shipping the React frontend on top of it.
 
 </tr>
 
-<!-- ROW 3: AI / LLM -->
-
 <tr>
 
 <td align="center" width="12.5%">
@@ -185,34 +173,6 @@ pipeline or shipping the React frontend on top of it.
 </td>
 
 <td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/robot.svg" width="42" height="42" alt="AI Agents"/><br/>
-<sub>AI Agents</sub>
-</td>
-
-<td align="center" width="12.5%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-       width="42" height="42" alt="Tool Calling"/><br/>
-  <sub>Tool Calling</sub>
-</td>
-
-<td align="center" width="12.5%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
-       width="42" height="42" alt="Embeddings"/><br/>
-  <sub>Embeddings</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="42" height="42" alt="Vector Search"/><br/>
-<sub>Vector Search</sub>
-</td>
-
-</tr>
-
-<!-- ROW 4: DATABASES -->
-
-<tr>
-
-<td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL"/><br/>
 <sub>PostgreSQL</sub>
 </td>
@@ -232,6 +192,10 @@ pipeline or shipping the React frontend on top of it.
 <sub>Supabase</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
        width="42" height="42" alt="SQL Server"/><br/>
@@ -242,22 +206,6 @@ pipeline or shipping the React frontend on top of it.
 <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL"/><br/>
 <sub>MySQL</sub>
 </td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="pgvector"/><br/>
-<sub>pgvector</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="42" height="42" alt="Elasticsearch"/><br/>
-<sub>Elasticsearch</sub>
-</td>
-
-</tr>
-
-<!-- ROW 5: CLOUD / DEVOPS -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS"/><br/>
@@ -280,11 +228,6 @@ pipeline or shipping the React frontend on top of it.
 </td>
 
 <td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=nginx" width="42" height="42" alt="Nginx"/><br/>
-<sub>Nginx</sub>
-</td>
-
-<td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" alt="GitHub Actions"/><br/>
 <sub>GitHub Actions</sub>
 </td>
@@ -294,26 +237,18 @@ pipeline or shipping the React frontend on top of it.
 <sub>Azure DevOps</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=terraform" width="42" height="42" alt="Terraform"/><br/>
 <sub>Terraform</sub>
 </td>
 
-</tr>
-
-<!-- ROW 6: MESSAGING / AI DEVELOPMENT -->
-
-<tr>
-
 <td align="center" width="12.5%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/apachekafka/apachekafka-original.svg" width="42" height="42" alt="Kafka"/><br/>
 <sub>Kafka</sub>
-</td>
-
-<td align="center" width="12.5%">
-  <img src="https://cdn.simpleicons.org/celery/37814A"
-       width="42" height="42" alt="Celery"/><br/>
-  <sub>Celery</sub>
 </td>
 
 <td align="center" width="12.5%">
@@ -343,21 +278,14 @@ pipeline or shipping the React frontend on top of it.
 </td>
 
 <td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="42" height="42" alt="LangChain"/><br/>
-<sub>LangChain</sub>
-</td>
-
-</tr>
-
-<!-- ROW 7: AUTOMATION / AI TOOLS -->
-
-<tr>
-
-<td align="center" width="12.5%">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71"
        width="42" height="42" alt="n8n"/><br/>
   <sub>n8n</sub>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="12.5%">
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/make-color.svg" width="42" height="42" alt="Make.com"/><br/>
@@ -374,32 +302,6 @@ pipeline or shipping the React frontend on top of it.
 <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/share-nodes.svg" width="42" height="42" alt="Webhooks"/><br/>
 <sub>Webhooks</sub>
 </td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=pytorch" width="42" height="42" alt="PyTorch"/><br/>
-<sub>PyTorch</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42" alt="TensorFlow"/><br/>
-<sub>TensorFlow</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="42" height="42" alt="Hugging Face"/><br/>
-<sub>Hugging Face</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/><br/>
-<sub>Scikit-learn</sub>
-</td>
-
-</tr>
-
-<!-- ROW 8: ADDITIONAL FRONTEND -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=vue" width="42" height="42" alt="Vue"/><br/>
@@ -426,6 +328,10 @@ pipeline or shipping the React frontend on top of it.
 <sub>Redux</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=materialui" width="42" height="42" alt="Material UI"/><br/>
 <sub>Material UI</sub>
@@ -435,17 +341,6 @@ pipeline or shipping the React frontend on top of it.
 <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" alt="Bootstrap"/><br/>
 <sub>Bootstrap</sub>
 </td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=threejs" width="42" height="42" alt="Three.js"/><br/>
-<sub>Three.js</sub>
-</td>
-
-</tr>
-
-<!-- ROW 9: ADDITIONAL BACKEND -->
-
-<tr>
 
 <td align="center" width="12.5%">
   <img src="https://skillicons.dev/icons?i=express&theme=light"
@@ -478,6 +373,10 @@ pipeline or shipping the React frontend on top of it.
 <sub>Laravel</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br/>
 <sub>Postman</sub>
@@ -487,12 +386,6 @@ pipeline or shipping the React frontend on top of it.
 <img src="https://skillicons.dev/icons?i=firebase" width="42" height="42" alt="Firebase"/><br/>
 <sub>Firebase</sub>
 </td>
-
-</tr>
-
-<!-- ROW 10: ADDITIONAL CLOUD / TOOLS -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=gcp" width="42" height="42" alt="Google Cloud"/><br/>
@@ -524,6 +417,10 @@ pipeline or shipping the React frontend on top of it.
 <sub>Jenkins</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=gitlab" width="42" height="42" alt="GitLab"/><br/>
 <sub>GitLab</sub>
@@ -533,12 +430,6 @@ pipeline or shipping the React frontend on top of it.
 <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br/>
 <sub>GitHub</sub>
 </td>
-
-</tr>
-
-<!-- ROW 11: CMS / DESIGN -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42" alt="WordPress"/><br/>
@@ -571,21 +462,14 @@ pipeline or shipping the React frontend on top of it.
 <sub>Photoshop</sub>
 </td>
 
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=ai" width="42" height="42" alt="Illustrator"/><br/>
-<sub>Illustrator</sub>
-</td>
+</tr>
+
+<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br/>
 <sub>VS Code</sub>
 </td>
-
-</tr>
-
-<!-- ROW 12: DEVELOPMENT TOOLS -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br/>
@@ -598,40 +482,9 @@ pipeline or shipping the React frontend on top of it.
 </td>
 
 <td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=vitest" width="42" height="42" alt="Vitest"/><br/>
-<sub>Vitest</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=cypress" width="42" height="42" alt="Cypress"/><br/>
-<sub>Cypress</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=pnpm" width="42" height="42" alt="pnpm"/><br/>
-<sub>pnpm</sub>
-</td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=yarn" width="42" height="42" alt="Yarn"/><br/>
-<sub>Yarn</sub>
-</td>
-
-<td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=npm" width="42" height="42" alt="npm"/><br/>
 <sub>npm</sub>
 </td>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=anaconda" width="42" height="42" alt="Anaconda"/><br/>
-<sub>Anaconda</sub>
-</td>
-
-</tr>
-
-<!-- ROW 13: ADDITIONAL TECHNOLOGIES -->
-
-<tr>
 
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=kotlin" width="42" height="42" alt="Kotlin"/><br/>
@@ -653,31 +506,33 @@ pipeline or shipping the React frontend on top of it.
 <sub>Vite</sub>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="12.5%">
 <img src="https://skillicons.dev/icons?i=webpack" width="42" height="42" alt="Webpack"/><br/>
 <sub>Webpack</sub>
 </td>
 
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=rollupjs" width="42" height="42" alt="Rollup"/><br/>
-<sub>Rollup</sub>
-</td>
+<td align="center" width="12.5%"></td>
 
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=babel" width="42" height="42" alt="Babel"/><br/>
-<sub>Babel</sub>
-</td>
+<td align="center" width="12.5%"></td>
 
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=opencv" width="42" height="42" alt="OpenCV"/><br/>
-<sub>OpenCV</sub>
-</td>
+<td align="center" width="12.5%"></td>
+
+<td align="center" width="12.5%"></td>
+
+<td align="center" width="12.5%"></td>
+
+<td align="center" width="12.5%"></td>
+
+<td align="center" width="12.5%"></td>
 
 </tr>
 
 </table>
 
-<br/>
 
 <!-- ========================================= -->
 <!--                  FOOTER                   -->
@@ -689,7 +544,6 @@ pipeline or shipping the React frontend on top of it.
 NEJI · Full Stack Developer
 </sub>
 
-<br/>
 
 <sub>
 System Architecture · Full Stack · Cloud Engineering · DevOps · AI
