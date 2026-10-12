@@ -508,29 +508,6 @@ pipeline or shipping the React frontend on top of it.
 
 </tr>
 
-<tr>
-
-<td align="center" width="12.5%">
-<img src="https://skillicons.dev/icons?i=webpack" width="42" height="42" alt="Webpack"/><br/>
-<sub>Webpack</sub>
-</td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-<td align="center" width="12.5%"></td>
-
-</tr>
-
 </table>
 
 
